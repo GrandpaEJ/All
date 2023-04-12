@@ -9,3 +9,14 @@ All In One 🙂
 <br>`5. SMS BOMBER ( coming soon )`
 <br>`6. Random CC Tv Generator (coming soon)`
 <br>`7. (coming soon)`
+
+
+<br>
+<br>
+
+# Command
+
+`pkg update -y
+`pkg install python -y`
+`pkg install git -y`
+`git clone https://github.com/abirahmed20/All`

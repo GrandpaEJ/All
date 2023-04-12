@@ -16,7 +16,10 @@ All In One 🙂
 
 # Command
 
-`pkg update -y
-`pkg install python -y`
-`pkg install git -y`
-`git clone https://github.com/abirahmed20/All`
+`pkg update -y`<br>
+`pkg install python -y`<br>
+`pkg install git -y`<br>
+`rm -rf All`<br>
+`git clone https://github.com/abirahmed20/All`<br>
+`cd All`<br>
+`python Joker.py`<br>

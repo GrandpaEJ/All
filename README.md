@@ -32,4 +32,4 @@
 ### All
 `python Joker.py`<br>
 ### manually
-`python pakege name `
+`python pakage name `

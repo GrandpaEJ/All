@@ -23,13 +23,13 @@
 `pkg install python -y`<br>
 `pkg install git -y`<br>
 
-#install
+# install
 `rm -rf All`<br>
 `git clone https://github.com/abirahmed20/All`<br>
 `cd All`<br>
 
-#run 
-###All
+# run 
+### All
 `python Joker.py`<br>
-###manually
+### manually
 `python pakege name `

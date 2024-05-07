@@ -1,0 +1,13 @@
+[
+    [
+        "./config.js",
+        "./run.js",
+        "./index.js",
+        "./commands/Admin/autorestart.js"
+    ],
+    [],
+    {
+        "versions": "1.1.0",
+        "alert": "Cập nhật phiên bản 1.1.0 !"
+    }
+]
